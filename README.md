@@ -1,1 +1,1 @@
-# ju_wndud-.gitignore.
+# ju_wndud06
