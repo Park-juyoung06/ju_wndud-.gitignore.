@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>나의 자기소개 - 박주영</title>
+
+</head>
+<body>
+    <header>
+        <h1>안녕하세요, 제 이름은 박주영 입니다.</h1>
+    </header>
+
+    <main>
+        <section id="introduction">
+            <h2>자기소개</h2>
+            <p>저는 **전북대학교**에 재학하고 있으며, 현재 웹 기술에 관심을 가지고 공부하고 있습니다.</p>
+            <img src="juyoung_profile.jpg" alt="박주영의 프로필 사진" style="width:200px; height: 200px; object-fit: cover;">
+        </section>
+
+        <section id="hobbies-skills">
+            <h2>취미와 특기</h2>
+            
+            <h3> 취미</h3>
+            <ul>
+                <li>드로잉</li>
+                <li>풍경사진 찍기</li>
+                <li>영화 시청</li>
+            </ul>
+
+            <h3> 특기</h3>
+            <ul>
+                <li>뛰어난 공감 능력</li>
+                <li>청소 고수 (정리 정돈)</li>
+                <li>음식을 정말 맛있게 먹기</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p> 연락처: <a href="mailto:gkrrkd4104@naver.com">gkrrkd4104@naver.com</a></p>
+        <p> 소셜 미디어: <a href="https://www.instagram.com/ju_wndud" target="_blank" title="새 탭에서 인스타그램 열기">내 인스타그램 바로가기</a></p>
+    </footer>
+</body>
+</html>
